@@ -1,0 +1,25 @@
+/*Universal*/
+* {
+    background-color: azure;
+}
+
+/*Homepage (index.html)*/
+#odinRecipes {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Cinzel Decorative', serif;
+}
+
+/*Links under Odin Recipes*/
+#homepageLinks {
+    text-align: center;
+}
+
+/*Individual Links*/
+.recipeLinks {
+    font-size: 20px;
+    margin-right: 20px;
+    font-family: 'Averia Serif Libre', serif;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,7 @@
+Fonts
+
+    Headings
+    - Cinzel Decorative
+
+    Regular Text
+    - Averia Serif Libre

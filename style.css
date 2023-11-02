@@ -3,6 +3,38 @@
     background-color: azure;
 }
 
+.description {
+    font-size: 25px;
+    font-family: 'Cinzel Decorative', serif;
+    text-align: center;
+}
+
+.ingredients {
+    font-size: 25px;
+    font-family: 'Cinzel Decorative', serif;
+    text-align: center;
+}
+
+.steps {
+    font-size: 25px;
+    font-family: 'Cinzel Decorative', serif;
+    text-align: center;
+}
+
+.descriptionP {
+    font-size: 15px;
+}
+
+.ingredientsList {
+    font-size: 15px;
+}
+
+.stepsP {
+    font-size: 15px;
+}
+
+
+
 
 
 /*---Homepage---*/

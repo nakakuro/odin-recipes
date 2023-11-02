@@ -75,3 +75,41 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+/*---Onigiri---*/
+#onigiri {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Cinzel Decorative', serif;
+}
+
+/*Onigiri Image*/
+#onigiriIMG {
+    width: 500px;
+    height: 400px;
+    border-radius: 13%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+/*---Miso Soup---*/
+#misoSoup {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Cinzel Decorative', serif;
+}
+
+/*Miso Soup Image*/
+#misoIMG {
+    width: 500px;
+    height: 400px;
+    border-radius: 13%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
